@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [SoarX's Website](https://github.com/AkshatJain481/re-create-soarx)
+- 🔭 I’m currently working on [Apyflux's Website](https://www.apyflux.com)
 
-- 🌱 I’m currently learning **NextJs, Solidity**
+- 🌱 I’m currently learning **NextJs, ASP.NET CORE**
 
 - 💬 Ask me about **ReactJs and NextJs**
 
