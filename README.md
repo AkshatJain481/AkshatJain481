@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Apyflux's Website](https://www.apyflux.com)
-
-- 🌱 I’m currently learning **NextJs, ASP.NET CORE**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **ReactJs and NextJs**
 
