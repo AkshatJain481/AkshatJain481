@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineering Student** curr
 
 ## 💼 Professional Experience
 
-### 🔥 **Full Stack Developer Intern** | Airth (Feb 2025 - Nov 2025)
+### 🔥 **Project Consultant** | Airth (Feb 2025 - Current)
 - 🌐 Developing Chrome extension with **React.js** for Instagram creators
 - 🔗 Integrating Instagram APIs for automation and analytics
 - 📈 Enhancing user productivity through automated engagement tools
