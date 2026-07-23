@@ -1,159 +1,387 @@
-# Hi there, I'm Akshat Jain! 👋
+# Hi, I'm Akshat Jain 👋
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;Full+Stack+%26+Mobile+Developer;AI+Agents+%7C+MCP+%7C+Cloud+Native;Always+Shipping+Production+Systems!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Full+Stack+Developer;Backend+%26+Cloud+Engineer;React+Native+%7C+NestJS+%7C+AWS;Building+Production+Systems+%26+AI+Automation" alt="Typing SVG"/>
+
+<p>
+<a href="mailto:akshatjain481@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/akshat-jain-264810276"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AkshatJain481"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://leetcode.com/akshatjain481"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://portfolio-website-blue-tau-17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/></a>
+</p>
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **Software Development Engineer** with nearly **2 years of experience** building production-grade web and mobile systems. I specialize in **React Native (Expo), React.js, Next.js, NestJS, PostgreSQL, and AWS**, and I love working at the intersection of full-stack engineering and AI — from **MCP-powered AI agents** to **route-optimization engines**.
+# 🚀 About Me
 
-- 💼 **Currently:** Software Development Engineer at **Airth Research Pvt. Ltd.**, New Delhi
-- 🎓 **Education:** B.Tech in CSE (**Artificial Intelligence & Machine Learning**) — UIET, Maharshi Dayanand University *(2022 – 2026)*
-- 🚢 **Shipped:** [Repaly.ai](https://www.repaly.ai/), [ApyFlux](https://www.apyflux.com/), a production **Warehouse Management System**, and [Optra One](https://play.google.com/store/apps/details?id=com.airth.partner&hl=en_IN)
-- 🤖 **Exploring:** AI agents with **MCP (Model Context Protocol)**, VRP solvers, and serverless event-driven architectures
-- 🧩 **DSA:** Solved **175+** LeetCode problems (rating **1550+**)
-- 👯 **Open to collaborate on:** Open source, AI-powered tools, and innovative web/mobile apps
-- 📧 **Reach me at:** [akshatjain481@gmail.com](mailto:akshatjain481@gmail.com)
+I'm a **Software Development Engineer** with **~2 years of production experience** building scalable web, mobile, cloud, and AI-powered applications.
 
-## 🛠️ Tech Stack
+I enjoy solving backend problems, designing scalable architectures, building developer-friendly APIs, and shipping products used by real customers.
+
+Currently working on:
+
+- 📱 Production React Native applications
+- ⚙️ Scalable NestJS backend services
+- ☁️ AWS serverless infrastructure
+- 🤖 AI Agents using MCP & OpenAI
+- 🚚 Route Optimization using Google OR-Tools
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building production-grade software
+- 🧠 System Design & Distributed Systems
+- ☁️ Cloud Native Development
+- 🤖 AI Workflow Automation
+- 📈 Backend Scalability & Performance
+
+---
+
+# 💼 Professional Experience
+
+## Software Development Engineer • Airth Research Pvt. Ltd.
+📍 New Delhi • Feb 2025 — Present
+
+Working across backend, frontend, mobile, cloud infrastructure and AI.
+
+### 🚚 Optra One
+
+- Built a production **React Native** application for field service management
+- Developed scalable backend services using **NestJS**
+- Designed an intelligent **Vehicle Routing Problem (VRP)** engine using **Google OR-Tools**
+- Reduced manual technician scheduling effort by **30%**
+- Built an **MCP-powered WhatsApp AI Agent** enabling technicians to create and manage jobs directly from WhatsApp
+
+**Tech**
+
+`React Native` `NestJS` `PostgreSQL` `Google OR-Tools` `MCP`
+
+---
+
+### 📦 Warehouse Management System
+
+Built a production inventory platform deployed on AWS.
+
+Highlights:
+
+- React frontend hosted on **AWS S3**
+- NestJS backend on **AWS EC2**
+- PostgreSQL on **AWS RDS**
+- SSL secured infrastructure
+- Role Based Access Control (RBAC)
+
+Achievements
+
+- ✅ 95–98% inventory accuracy
+- ✅ 30–40% reduction in reconciliation time
+- ✅ 20–30% operational efficiency improvement
+
+**Tech**
+
+`React.js` `NestJS` `PostgreSQL` `AWS`
+
+---
+
+### 🤖 Repaly.ai
+
+Worked on scalable backend infrastructure for AI-powered Instagram automation.
+
+Highlights
+
+- AWS Lambda
+- API Gateway
+- DynamoDB
+- SQS
+- Event-driven Architecture
+- WebSockets
+- Webhooks
+- Instagram Graph API Integration
+
+---
+
+## Full Stack Developer Intern • Zucol Solutions
+
+📍 Noida (Remote)
+Jul 2024 — Jan 2025
+
+### ApyFlux API Marketplace
+
+Built core platform modules for an API marketplace serving
+
+- **200+ APIs**
+- **100+ developers**
+
+Responsibilities
+
+- Admin Dashboard
+- REST APIs
+- API Integrations
+- SQL Optimization
+- Cron Jobs
+- ASP.NET Core backend
+
+Achievements
+
+- 🚀 Improved API response time by **20%**
+- 🚀 Improved SQL performance by **25%**
+
+---
+
+# 🚀 Featured Production Projects
+
+## 🚚 Optra One
+
+Production service management platform.
+
+### Features
+
+- Technician Management
+- Job Scheduling
+- AMC Management
+- Payments
+- Route Optimization
+- Smart Scheduling
+- AI WhatsApp Agent
+
+**Tech**
+
+`React Native`
+`NestJS`
+`PostgreSQL`
+`Google OR-Tools`
+`MCP`
+
+🔗 Android
+
+https://play.google.com/store/apps/details?id=com.airth.partner
+
+🔗 iOS
+
+https://apps.apple.com/in/app/optra-one/id6784948556
+
+---
+
+## 🤖 Repaly.ai
+
+AI-powered social media automation platform.
+
+### Features
+
+- Instagram Automation
+- Webhooks
+- WebSockets
+- Real-time Events
+- AWS Serverless Architecture
+
+**Tech**
+
+`React`
+`NestJS`
+`Lambda`
+`API Gateway`
+`SQS`
+`DynamoDB`
+
+🔗 https://www.repaly.ai/
+
+---
+
+## 🌐 ApyFlux
+
+Enterprise API Marketplace.
+
+### Features
+
+- API Marketplace
+- Developer Dashboard
+- API Monetization
+- Admin Panel
+- REST APIs
+
+**Tech**
+
+`Next.js`
+`React`
+`ASP.NET Core`
+`SQL Server`
+
+🔗 https://www.apyflux.com/
+
+---
+
+## 📊 Warehouse Management System
+
+Production inventory management platform.
+
+### Features
+
+- Inventory Tracking
+- Barcode Workflows
+- Warehouse Operations
+- Role Based Access Control
+- Analytics Dashboard
+
+**Tech**
+
+`React`
+`NestJS`
+`PostgreSQL`
+`AWS`
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
+
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-black?style=for-the-badge&logo=dotnet)
+
+---
+
+## Databases
+
+- PostgreSQL
+- MongoDB
+- SQL Server
+- DynamoDB
+- Supabase
+- Prisma ORM
+
+---
+
+## Cloud & DevOps
+
+- AWS Lambda
+- API Gateway
+- EC2
+- S3
+- DynamoDB
+- SQS
+- RDS
+- Git
+- GitHub
+- Linux
+
+---
+
+## Architecture & Engineering
+
+- REST APIs
+- WebSockets
+- Webhooks
+- RBAC
+- Event Driven Architecture
+- Database Design
+- API Design
+- Google OR-Tools
+- MCP Servers
+
+---
+
+## AI
+
+- OpenAI APIs
+- Model Context Protocol (MCP)
+- AI Workflow Automation
+- LLM Integrations
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-### Languages & Frameworks
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkshatJain481&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatJain481&theme=tokyonight&hide_border=true"/>
 
-### Databases & ORMs
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### System Design & AI
-
-`RESTful APIs` • `WebSockets` • `Webhooks` • `Database Indexing` • `RBAC` • `Event-Driven Architecture` • `MCP (Model Context Protocol)` • `Google OR-Tools (VRP)`
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJain481&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-## 💼 Professional Experience
+---
 
-### 🔥 **Software Development Engineer** | Airth Research Pvt. Ltd. — New Delhi *(Feb 2025 – Present)*
+# 🏆 Achievements
 
-- 📱 **Optra One App & Route Optimization Engine** — Built a cross-platform **React Native** app (owning frontend architecture & UI) with scalable **RESTful APIs** in **NestJS**; designed a **VRP-based scheduling engine** with **Google OR-Tools** that automates technician-job assignments, cutting manual scheduling effort by **30%**
-- 🤖 Built a **WhatsApp Business AI agent** using **MCP (Model Context Protocol)** servers for in-chat job creation and management — no app required
-- 🏭 **Warehouse Management System** — Engineered a production-grade WMS with **React.js on AWS S3**, **NestJS on EC2**, and **PostgreSQL on RDS** (SSL + **RBAC**), achieving **95–98%** inventory accuracy, reducing reconciliation time by **30–40%**, and improving operational efficiency by **20–30%**
-- ⚡ **Repaly.ai Serverless Backend** — Built an event-driven architecture on **AWS Lambda, API Gateway, DynamoDB, and SQS**, with real-time **WebSocket** and **Webhook** integrations against the **Instagram Graph API** for high-concurrency workloads
+- 💼 Nearly **2 years** of production software engineering experience
+- 🚀 Built multiple production web & mobile applications
+- ☁️ Designed AWS serverless architectures
+- 🤖 Built AI Agents using MCP
+- 📦 Developed production Warehouse Management System
+- 🚚 Built Google OR-Tools based route optimization engine
+- 🧩 Worked on scalable REST APIs & distributed backend systems
+- 🏅 175+ LeetCode problems solved (1550+ Rating)
 
-### ⚡ **Full Stack Developer Intern** | Zucol Solutions — Noida (Remote) *(Jul 2024 – Jan 2025)*
+---
 
-- 🏗️ Constructed key modules of the **ApyFlux** platform — an **API marketplace hosting 200+ APIs** with **100+ developers** monetizing their APIs — including an **Admin Dashboard**, using **Next.js**, **React.js**, and **ASP.NET Core**
-- 🔧 Established and improved **RESTful APIs** in **ASP.NET Core**, implemented **cron jobs** for scheduled workflows, and improved API response times by **20%**
-- 🗄️ Enhanced **SQL Server** performance via query redesign, indexing, and stored-procedure optimization — **25% faster data access**
-
-### 🌟 **Web Developer Intern** | SoarX *(Feb 2024 – Aug 2024)*
-
-- ⚡ Enhanced load times by **40%** using server-side rendering
-- 🎯 Reduced initial load time by **30%** through code splitting and lazy loading
-- 📱 Developed responsive web applications with modern frameworks
-
-## 🏆 Featured Projects
+# 📫 Connect With Me
 
 <div align="center">
 
-### [📱 Optra One — Service Management Platform](https://play.google.com/store/apps/details?id=com.airth.partner&hl=en_IN)
-**Production mobile app for technician management, job scheduling, AMC subscriptions, payments & maintenance workflows, with an intelligent auto-scheduling engine (Google OR-Tools VRP)**
-<br>
-`React Native` `NestJS` `PostgreSQL` `Google OR-Tools`
-<br>
-[▶️ Play Store](https://play.google.com/store/apps/details?id=com.airth.partner&hl=en_IN) • [🍎 App Store](https://apps.apple.com/in/app/optra-one/id6784948556)
+<a href="mailto:akshatjain481@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### [🤖 Repaly.ai — AI Automation Platform](https://www.repaly.ai/)
-**AI-driven social media automation for engagement, analytics & content workflows with real-time, high-concurrency processing**
-<br>
-`React.js` `NestJS` `AWS Lambda` `API Gateway` `DynamoDB` `WebSockets` `Webhooks`
+<a href="https://linkedin.com/in/akshat-jain-264810276">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### [🌐 ApyFlux — API Marketplace](https://www.apyflux.com/)
-**Full-stack API marketplace enabling third-party integrations and secure cross-industry data exchange at enterprise scale**
-<br>
-`Next.js` `React.js` `ASP.NET Core` `SQL Server`
+<a href="https://github.com/AkshatJain481">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### [👗 Fabrix](https://fabrix-eight.vercel.app/)
-**Modern e-commerce fashion platform**
-<br>
-`Next.js` `Sanity` `Razorpay` `Clerk` `Tailwind CSS`
+<a href="https://leetcode.com/akshatjain481">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-### [📊 GST Invoicer Pro](https://gstinvoicer-pro.vercel.app/)
-**GST-compliant invoicing solution for Indian businesses**
-<br>
-`React.js` `Supabase` `html2canvas` `jsPDF` `Recharts`
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatJain481&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatJain481&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJain481&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🧩 Problem Solving
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-175%2B_Problems_|_1550%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akshatjain481)
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-blue-tau-17.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-264810276/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshatJain481)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akshatjain481)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatjain481@gmail.com)
+<a href="https://portfolio-website-blue-tau-17.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshatJain481&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/AkshatJain481">AkshatJain481</a></i>
+![](https://komarev.com/ghpvc/?username=AkshatJain481&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+*"Build. Learn. Optimize. Repeat."*
+
 </div>
